@@ -8,20 +8,18 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#5cccf7&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Keep%20learning&font=Fira%20Code&center=true&width=440&height=45&color=##5c7ef7&vCenter=true&size=22"></a>
 </p> 
 
-- 💻 I'm a Software Engineer Mobile application with Flutter
+- 💻 I'm a Software Engineer Mobile application with Flutter.
 - 👨‍💻 As a CS student, faculty of computers and artificial intelligence.
-- 💬 Ask me about my experience with Dart, c++, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/ali-ahmed-mahmoud-b4632521b/" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Ali_A7med_1" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Ahmed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Ahmed-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 <a href="https://www.buymeacoffee.com/yousefdergham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
