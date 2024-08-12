@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Keep%20learning&font=Fira%20Code&center=true&width=440&height=45&color=##5c7ef7&vCenter=true&size=22"></a>
 </p> 
 
-- 💻 I'm a Software Engineer Mobile application with Flutter.
+- 💻 I'm a Software engineer Mobile application with Flutter.
 - 👨‍💻 As a CS student, faculty of computers and artificial intelligence.
 
 
